@@ -26,6 +26,6 @@ Paste the GitHub notebook URL to view it correctly.
 
 ## How to Use
 1. Clone the repository or download the specific folder you want to explore.
-2. Make sure the download **both** the '.ipynb' notebook and any related '.csv' or related files in the same folder.
+2. Make sure to download **both** the '.ipynb' notebook and any related '.csv' or related files in the same folder.
 3. Open the '.ipynb' files in Jupyter, VSCode, or Google Colab.
 4. Run the code cells. Make sure the data file (e.g. 'Data.csv') is in the **same directory** as the notebook to avoid file path errors.
