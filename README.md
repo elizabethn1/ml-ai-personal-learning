@@ -24,3 +24,8 @@ Paste the GitHub notebook URL to view it correctly.
 > Example:  
 > [View data_preprocessing_tools.ipynb in nbviewer](https://nbviewer.org/github/elizabethn1/ml-ai-personal-learning/blob/main/data_preprocessing_in_python/data_preprocessing_tools.ipynb)
 
+## How to Use
+1. Clone the repository or download the specific folder you want to explore.
+2. Make sure the download **both** the '.ipynb' notebook and any related '.csv' or related files in the same folder.
+3. Open the '.ipynb' files in Jupyter, VSCode, or Google Colab.
+4. Run the code cells. Make sure the data file (e.g. 'Data.csv') is in the **same directory** as the notebook to avoid file path errors.
