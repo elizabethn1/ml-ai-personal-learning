@@ -1,0 +1,26 @@
+# Machine Learning and AI Practice
+This repository contains my personal machine learning and AI practice notebooks.
+Each topic is organized in its own folder, with Jupyter notebooks and related datasets included.
+
+Note: This is a work in progress. More topics will be added as I progress in my learning journey.
+
+## Topics Covered (continuously updated)
+- Data preprocessing
+- Regression (coming soon!)
+- Classification (coming soon!)
+- Clustering (coming soon!)
+- Association Rule Learning (coming soon!)
+- Reinforcement Learning (coming soon!)
+- Natural Language Processing (coming soon!)
+- and more...
+
+## How to View Notebooks 
+GitHub sometimes doesn't render '.ipynb' files properly and shows a message like "Unable to render a block."
+
+### Use nbviewer as a workaround:
+Open [https://nbviewer.org](https://nbviewer.org)  
+Paste the GitHub notebook URL to view it correctly.
+
+> Example:  
+> [View data_preprocessing.ipynb in nbviewer](https://nbviewer.org/github/elizabethn1/ml-ai-personal-learning/blob/main/data-preprocessing-in-python/data_preprocessing.ipynb)
+
