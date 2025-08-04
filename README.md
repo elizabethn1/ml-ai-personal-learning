@@ -22,5 +22,5 @@ Open [https://nbviewer.org](https://nbviewer.org)
 Paste the GitHub notebook URL to view it correctly.
 
 > Example:  
-> [View data_preprocessing.ipynb in nbviewer](https://nbviewer.org/github/elizabethn1/ml-ai-personal-learning/blob/main/data-preprocessing-in-python/data_preprocessing.ipynb)
+> [View data_preprocessing_tools.ipynb in nbviewer](https://nbviewer.org/github/elizabethn1/ml-ai-personal-learning/blob/main/data_preprocessing_in_python/data_preprocessing_tools.ipynb)
 
